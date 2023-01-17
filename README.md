@@ -1,2 +1,2 @@
 # JavaPrograms
-Java programs to learn
+Java programs to lear
